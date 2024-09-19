@@ -26,4 +26,5 @@ public class SpeakerAdapter implements RemoteControllerFunction {
     public String pressMinusButton() {
         return speaker.voulumeDown();
     }
+
 }
