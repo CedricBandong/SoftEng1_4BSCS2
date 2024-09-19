@@ -10,5 +10,5 @@ public class PowerOn implements Command {
     public String execute() {
         return tv.switchOn();
     }
-
 }
+
