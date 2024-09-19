@@ -16,5 +16,5 @@ public class Speaker {
     public String voulumeDown(){
         return "Bluetooth speaker is decreasing volume!";
     }
-
 }
+
