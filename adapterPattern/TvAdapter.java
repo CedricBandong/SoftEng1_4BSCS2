@@ -27,4 +27,5 @@ public class TvAdapter implements  RemoteControllerFunction {
     public String pressMinusButton() {
         return tv.changeChannelDown();
     }
+
 }
