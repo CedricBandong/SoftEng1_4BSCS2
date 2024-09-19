@@ -26,4 +26,5 @@ public class AirconAdapter implements RemoteControllerFunction {
     public String pressMinusButton() {
         return airCon.tempDown();
     }
+
 }
