@@ -26,4 +26,5 @@ public class ApplianceApp {
         System.out.println(speakerRc.pressPlusButton());
 
     }
+
 }
